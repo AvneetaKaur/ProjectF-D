@@ -1,0 +1,201 @@
+.container{
+    background-color: rgb(248, 217, 248); display: block;
+     left: 200px; top: 20px; height: 350px;  width: 1000px; 
+    position: relative; border-radius: 10px; margin: 20px;
+    box-shadow:8px 12px rgb(158, 158, 158);
+}
+
+.container:hover{ background-color: rgb(222, 192, 222);
+    box-shadow:10px 13px rgb(97, 97, 97);}
+
+.table1{
+    background-color: rgb(125, 60, 201);   
+    padding-top: 20px; padding-left: 0px; padding-right: 0px; padding-bottom: 20px;
+    border-spacing: 18px; position: absolute;
+    top: 60px; right:0px; left:860px;  border-radius: 10px; text-align: center;  
+}
+.n{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.n:hover{
+    color: black;
+}
+
+#profile{
+    position: absolute; left: 500px; top: 100px;
+}
+
+h1{position: absolute; left: 0px; width: 100%; top: -22px; color:white;
+    background-color: rgb(125, 60, 201); border-radius: 10px; 
+    text-shadow: 5px 3px 8px black;}
+h2{position: absolute; left: 120px; top: 100px; 
+    text-shadow: 5px 3px 8px black; }
+h3{position: absolute; left: 120px; top: 150px;
+    text-shadow: 5px 3px 8px black;}
+h5{position: absolute; left: 120px; top: 200px; 
+    text-shadow: 5px 3px 8px black;}
+
+.button{ position: relative; top: 270px; left: 70px;
+    background-color: rgb(125, 60, 201); color: white; padding: 15px 30px;
+    text-align: center; display: inline-block; font-size: 15px; border-radius: 8px; border-color: blueviolet;
+    cursor: pointer;}
+.button:hover{background-color: rgb(86, 42, 135); color: white;}
+.button:active{ box-shadow:1px 3px black;}
+
+
+#img1{border-radius: 100px; width:220px; height:220px; 
+        box-shadow: 5px 5px 5px purple;}
+#img1:hover{border-radius: 100px; width:230px; height:230px; 
+    border: 1px solid rgb(125, 60, 201); box-shadow: 5px 5px 5px black; }
+
+/*myportfolio*/
+#myportfolio{background-color: rgb(248, 217, 248); display: block;
+    left: 200px; top: 20px; height: 510px;  width: 1000px; 
+   position: relative; border-radius: 10px; margin: 20px;
+   box-shadow:8px 12px rgb(158, 158, 158);}
+#myportfolio:hover{ background-color: rgb(222, 192, 222);
+    box-shadow:10px 13px rgb(97, 97, 97);}
+#photos1{position: relative; left: 8px; top: 2px;}
+#photos1:hover{ border-radius: 20px ; width:305px; height:225px; 
+    border: 3px solid rgb(125, 60, 201) ; box-shadow: 5px 5px 5px rgb(39, 38, 38);}
+
+#photos2{position: relative; left: 10px; top: 2px;}
+#photos2:hover{ border-radius: 20px; width:405px; height:225px; 
+    border: 3px solid rgb(125, 60, 201) ; box-shadow: 5px 5px 5px rgb(39, 38, 38);}
+
+#photos3{position: relative; left: 10px; top: 2px;}
+#photos3:hover{ border-radius: 20px; width:275px; height:225px; 
+    border: 3px solid rgb(125, 60, 201) ; box-shadow: 5px 5px 5px rgb(39, 38, 38);}
+
+#photos4{position: relative; left: 8px; top: 2px;}
+#photos4:hover{ border-radius: 20px; width:285px; height:225px; 
+    border: 3px solid rgb(125, 60, 201) ; box-shadow: 5px 5px 5px rgb(39, 38, 38);}
+
+#photos5{position: relative; left: 10px; top: 2px;}
+#photos5:hover{ border-radius: 20px; width:305px; height:225px; 
+    border: 3px solid rgb(125, 60, 201) ; box-shadow: 5px 5px 5px rgb(39, 38, 38);}
+
+#photos6{position: relative; left: 10px; top: 2px;}
+#photos6:hover{ border-radius: 20px; width:395px; height:225px; 
+    border: 3px solid rgb(125, 60, 201) ; box-shadow: 5px 5px 5px rgb(39, 38, 38);}
+
+/*about me */
+
+#aboutme{background-color: rgb(248, 217, 248); display: block;
+     left: 200px; top: 20px; height: 350px;  width: 1000px; 
+    position: relative; border-radius: 10px; margin: 20px;
+    box-shadow:8px 12px rgb(158, 158, 158);}
+#aboutme:hover{background-color: rgb(222, 192, 222);
+    box-shadow:10px 13px rgb(97, 97, 97);}
+#img2{border-radius: 10px; position: relative; top: -10px; left:20px ;
+    box-shadow: 5px 5px 5px purple;}
+#img2:hover{box-shadow: 6px 6px 6px black;}
+#heading{ position: relative ; left: 650px; top: 10px;}
+#p1{ position: absolute; left: 500px; top: 50px; 
+    height: 250px; width: 450px; text-align: center; font-size: 20px;}
+#icons{ position: absolute; background-color: blueviolet; height: 50px;
+        width: 450px; top: 280px; left: 500px; border-radius: 10px; }
+
+
+/*resume */
+#resume{background-color: rgb(248, 217, 248); display: block;
+     left: 200px; top: 20px; height: 400px;  width: 1000px; 
+    position: relative; border-radius: 10px; margin: 20px;
+    box-shadow:8px 12px rgb(158, 158, 158);
+}
+#resume:hover{background-color: rgb(222, 192, 222);
+    box-shadow:10px 13px rgb(97, 97, 97);}
+#heading1{ position: relative ; left: 0px; top: 0px;text-align:center ;
+    background-color: rgb(125, 60, 201); border-radius: 10px;}
+
+#r1{position: absolute; left: 20px; top: 60px; background-color:rgb(179, 151, 179);
+    height: 315px; width: 610px; text-align: center; font-size: 20px;border-radius: 8px;
+}
+#resumepara{ position: absolute; left: 100px; top: 0px; 
+    height: 250px; width: 450px; text-align: center; font-size: 20px;}
+#icons2{ position: absolute; background-color: blueviolet; height: 50px;
+        width: 550px; top: 250px; left: 40px; border-radius: 10px; 
+        text-decoration:none ; color: inherit; color: black;}
+
+        
+#imgr{border-radius: 10px; position: relative; top: 10px;left: 650px;
+    box-shadow: 5px 5px 5px purple;}
+#imgr:hover{ box-shadow: 6px 6px 6px black;}
+#picon:hover{color: aliceblue;}
+#picon{text-decoration: none; color: black;}
+
+/*what people say about me*/
+#people{background-color: rgb(248, 217, 248); display: block;
+     left: 200px; top: 20px; height: 400px;  width: 1000px; 
+    position: relative; border-radius: 10px; margin: 20px;
+    box-shadow:8px 12px rgb(158, 158, 158);
+}
+#people:hover{background-color: rgb(222, 192, 222);
+    box-shadow:10px 13px rgb(97, 97, 97);}
+#heading2{ position: relative ; left: 0px; top: 0px; text-align:center ;
+    background-color: rgb(125, 60, 201); border-radius: 10px;}
+
+#people1{border-radius: 100px; position: relative; left: 80px;
+    box-shadow: 5px 5px 5px purple; opacity: 90%;}
+#people1:hover{box-shadow: 6px 6px 6px black; opacity: 100%;}
+
+#a{position: absolute; left: 120px; top: 270px; width: 200px;}
+#b{position: absolute; left: 420px; top: 270px; width: 200px;}
+#c{position: absolute; left: 720px; top: 270px; width: 200px;}
+
+#people2{border-radius: 100px; position: relative; left: 160px;
+    box-shadow: 5px 5px 5px purple; opacity: 90%;}
+#people2:hover{box-shadow: 6px 6px 6px black;opacity: 100%;}
+
+#people3{border-radius: 100px; position: relative; left: 240px;
+    box-shadow: 5px 5px 5px purple;opacity: 90%;}
+#people3:hover{box-shadow: 6px 6px 6px black;opacity: 100%;}
+
+#footer{ position: relative ; left: 0px;top: 85px; text-align:center ; height: 30px;
+    background-color: rgb(179, 151, 179); border-radius: 10px; font-size: 18px;}
+#footert{color: rgb(125, 60, 201);}
+#footert:hover{color: white ; text-shadow: 2px 2px 2px black;}
+
+
+
+/*contact*/
+#left{background-color: rgb(248, 217, 248); display: block;
+     left: 200px; top: 20px; height: 450px;  width: 1000px; 
+    position: relative; border-radius: 10px; margin: 20px;
+    box-shadow:8px 12px rgb(158, 158, 158);
+}
+#left:hover{background-color: rgb(222, 192, 222);
+    box-shadow:10px 13px rgb(97, 97, 97);}
+#heading3{ position: relative ; left: 0px; top: 0px; text-align:center ;
+    background-color: rgb(125, 60, 201); border-radius: 10px; }
+#letsconnect{
+    position: absolute; left: 40px; top: 50px;  background-color:rgb(179, 151, 179);
+    height: 380px; width: 430px; text-align: center; font-size: 20px; border-radius: 8px;
+}
+#letsconnect:hover{background-color: rgb(248, 217, 248);
+    border: 2px solid rgb(125, 60, 201);box-shadow: 5px 5px 5px black;}
+
+#ch{position: absolute; left: 120px; top: -10px;}
+
+#p2{ position: absolute; left: 0px; top: 40px; 
+    height: 250px; width: 420px; text-align: center; font-size: 20px;}
+
+.connect{position: absolute; left: 20px; top: 230px;
+    padding-left: 20px; text-align: left;
+    border-spacing: 10px;}
+
+/*form*/
+#right{position: absolute; left: 500px; top: 50px; background-color:rgb(179, 151, 179);
+    height: 380px; width: 450px; text-align: center; font-size: 20px;border-radius: 8px;
+}
+#right:hover{background-color: rgb(248, 217, 248); 
+    border: 2px solid rgb(125, 60, 201);box-shadow: 5px 5px 5px black;}
+#form1{ position: relative; top: 90px; left: 10px;}
+#sbutton{position: relative; top: 20px; left: 100px;
+    background-color: rgb(125, 60, 201); color: white; padding: 15px 30px;
+    text-align: center; display: inline-block; font-size: 15px; border-radius: 8px; border-color: blueviolet;
+}
+#sbutton:hover{background-color: rgb(86, 42, 135); color: white;}
+#sbutton:active{ box-shadow:1px 3px black;}
